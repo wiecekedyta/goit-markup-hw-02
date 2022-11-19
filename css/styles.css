@@ -22,8 +22,13 @@ body {
 .nav-items:hover {
   color: #2196f3;
 }
+
 .section-two li {
   display: inline-block;
+}
+.container {
+  width: 270;
+  height: 110;
 }
 h1 {
   font-size: 44px;
