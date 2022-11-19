@@ -97,6 +97,6 @@ h4 {
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
 }
-.contact-footer:hover {
+.contact-footer:hover :focus {
   color: #2196f3;
 }
