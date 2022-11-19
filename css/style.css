@@ -41,22 +41,33 @@ h1 {
 }
 h3 {
   font-size: 16px;
-  font-weight: 700;
   line-height: 1;
   letter-spacing: 0.03em;
   text-transform: uppercase;
 }
 p {
   font-size: 14px;
-  font-weight: 400;
   line-height: 1;
   letter-spacing: 0.03em;
   color: #757575;
 }
 h2 {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.16;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+.work-position {
+  font-size: 16px;
+  line-height: 19px;
+  text-align: center;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+h4 {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 19px;
   text-align: center;
   letter-spacing: 0.03em;
 }
