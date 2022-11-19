@@ -22,7 +22,7 @@ body {
 .nav-items:hover {
   color: #2196f3;
 }
-.section-two {
+.section-two li {
   display: inline-block;
 }
 h1 {
@@ -65,6 +65,9 @@ h2 {
   line-height: 1.16;
   text-align: center;
   letter-spacing: 0.03em;
+}
+.section-three {
+  display: inline-block;
 }
 .work-position {
   font-size: 16px;
