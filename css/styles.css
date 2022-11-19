@@ -23,7 +23,7 @@ body {
   color: #2196f3;
 }
 .section-two li {
-  display: inline-block;
+  display: inline;
 }
 h1 {
   font-size: 44px;
@@ -67,10 +67,10 @@ h2 {
   letter-spacing: 0.03em;
 }
 .section-three {
-  display: inline-block;
+  display: inline;
 }
 .section-four {
-  display: inline-block;
+  display: inline;
 }
 .work-position {
   font-size: 16px;
@@ -124,4 +124,7 @@ h4 {
 }
 .list-style {
   list-style: none;
+}
+.display-style {
+  display: inline;
 }
