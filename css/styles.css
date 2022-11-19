@@ -109,6 +109,12 @@ h4 {
 .contact-items:focus {
   color: #2196f3;
 }
+.contact-footer:hover {
+  color: #2196f3;
+}
+.contact-footer:focus {
+  color: #2196f3;
+}
 .list-style {
   list-style: none;
 }
