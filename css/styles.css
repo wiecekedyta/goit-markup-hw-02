@@ -127,5 +127,5 @@ h4 {
   list-style: none;
 }
 .display-style {
-  display: inline;
+  display: inline-block;
 }
