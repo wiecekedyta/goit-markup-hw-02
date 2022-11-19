@@ -66,6 +66,7 @@ h2 {
   text-align: center;
   letter-spacing: 0.03em;
   color: #757575;
+  text-decoration: none;
 }
 h4 {
   font-weight: 500;
@@ -92,7 +93,6 @@ h4 {
   color: #2196f3;
 }
 .contact-footer {
-  font-size: 14px;
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
