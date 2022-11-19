@@ -4,4 +4,10 @@ h1 {
   font-size: 44px;
   font-weight: 900;
   text-align: center;
+  color: #fff;
+  position: absolute;
+  width: 696px;
+  height: 120px;
+  left: 452px;
+  top: 280px;
 }
