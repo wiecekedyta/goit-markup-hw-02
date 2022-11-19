@@ -17,13 +17,16 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
-  display: inline;
+  display: inline-block;
 }
 .nav-items:hover {
   color: #2196f3;
 }
 .nav-items:visited {
   text-decoration: none;
+}
+.section-two {
+  display: inline-block;
 }
 h1 {
   font-size: 44px;
