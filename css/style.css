@@ -92,15 +92,13 @@ h4 {
   color: #757575;
   text-decoration: none;
 }
-.contact-items:hover {
-  color: #2196f3;
-}
+
 .contact-footer {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
 }
-.contact-footer:hover :focus {
+.contact-footer .contact-items:hover .contact-footer .contact-items:focus {
   color: #2196f3;
 }
