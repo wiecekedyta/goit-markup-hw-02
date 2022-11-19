@@ -17,7 +17,7 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
-  list-style: none;
+  display: inline;
 }
 .nav-items:hover {
   color: #2196f3;
