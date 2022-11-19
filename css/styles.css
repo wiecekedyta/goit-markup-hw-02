@@ -11,7 +11,7 @@ body {
   color: #2196f3;
   text-decoration: none;
 }
-.nav-items {
+.nav-items li {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
@@ -21,9 +21,6 @@ body {
 }
 .nav-items:hover {
   color: #2196f3;
-}
-.nav-items:visited {
-  text-decoration: none;
 }
 .section-two {
   display: inline-block;
