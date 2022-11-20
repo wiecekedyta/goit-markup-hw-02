@@ -26,14 +26,14 @@ body {
   color: #2196f3;
 }
 .button-style {
+  background: #f5f4fa;
+  border-radius: 4px;
+  cursor: pointer;
   font-weight: 500;
   font-size: 16px;
   line-height: 1.62;
   text-align: center;
   letter-spacing: 0.03em;
-  background: #f5f4fa;
-  border-radius: 4px;
-  cursor: pointer;
 }
 .button-style:hover {
   color: #ffffff;
