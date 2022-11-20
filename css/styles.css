@@ -29,6 +29,7 @@ body {
 .container {
   width: 270px;
   height: 110px;
+  display: inline-block;
 }
 h1 {
   font-size: 44px;
