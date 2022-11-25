@@ -13,8 +13,9 @@ body {
   letter-spacing: 0.03em;
   color: #2196f3;
   text-decoration: none;
-  .logo-bicolor {
-    color: 000;
+}
+.logo-bicolor {
+    color: #000;
   }
 }
 .nav-items li {
