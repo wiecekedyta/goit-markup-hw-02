@@ -73,8 +73,8 @@ body {
   font-weight: 900;
   line-height: 1.36;
   text-align: center;
-
   color: #fff;
+  align-items: center;
 }
 .header-button {
   background: #2196f3;
