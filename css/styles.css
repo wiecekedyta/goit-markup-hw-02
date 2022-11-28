@@ -52,6 +52,9 @@ body {
     0px 2px 2px rgba(0, 0, 0, 0.12);
   border-radius: 4px;
 }
+.section-one {
+  background-color: #2f303a;
+}
 .section-two li {
   display: inline-block;
 }
@@ -61,7 +64,7 @@ body {
   font-weight: 900;
   line-height: 1.36;
   text-align: center;
-  background-color: #2f303a;
+
   color: #fff;
 }
 .header-button {
