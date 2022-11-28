@@ -29,6 +29,15 @@ body {
 .list-style:hover {
   color: #2196f3;
 }
+.list-style li {
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 1.14;
+  letter-spacing: 0.02em;
+  text-decoration: none;
+  display: inline-block;
+  list-style: none;
+}
 .button-style {
   background: #f5f4fa;
   border-radius: 4px;
