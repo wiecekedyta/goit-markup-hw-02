@@ -17,15 +17,16 @@ body {
 .logo-bicolor {
   color: #000;
 }
-.nav-items li {
+.list-style {
   font-weight: 500;
   font-size: 14px;
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
   display: inline-block;
+  list-style: none;
 }
-.nav-items:hover {
+.list-style:hover {
   color: #2196f3;
 }
 .button-style {
@@ -172,9 +173,7 @@ body {
 .contact-footer:focus {
   color: #2196f3;
 }
-.list-style {
-  list-style: none;
-}
+
 .display-style li {
   display: inline-block;
 }
