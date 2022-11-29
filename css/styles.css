@@ -152,7 +152,10 @@ body {
   line-height: 1.71;
   letter-spacing: 0.03em;
   color: #ffffff;
+}
+.footer-style {
   background-color: #2f303a;
+  height: 252px;
 }
 .contact-items {
   font-weight: 500;
