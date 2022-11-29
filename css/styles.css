@@ -57,7 +57,7 @@ body {
   line-height: 1.14;
   letter-spacing: 0.02em;
   text-decoration: none;
-  display: inline;
+  display: inline-block;
   list-style: none;
 }
 .list-style:hover {
