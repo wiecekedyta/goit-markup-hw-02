@@ -55,6 +55,11 @@ body {
 .list-style:hover {
   color: #2196f3;
 }
+.nav-items {
+  display: inline;
+  list-style: none;
+  text-decoration: none;
+}
 
 .button-style {
   background: #f5f4fa;
