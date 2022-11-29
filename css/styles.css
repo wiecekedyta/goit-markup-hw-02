@@ -90,9 +90,7 @@ body {
   border-radius: 4px;
 }
 .button-list li {
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
+  display: inline-block;
   list-style: none;
 }
 .section-two {
