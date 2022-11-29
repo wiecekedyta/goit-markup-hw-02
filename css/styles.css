@@ -92,6 +92,7 @@ body {
 .button-list li {
   display: inline;
   list-style: none;
+  align-items: center;
 }
 .section-two {
   margin: 94px 200px;
