@@ -46,6 +46,11 @@ body {
   align-items: center;
   justify-content: center;
 }
+.nav-items {
+  display: inline;
+  list-style: none;
+  text-decoration: none;
+}
 .list-style {
   font-weight: 500;
   font-size: 14px;
@@ -58,12 +63,6 @@ body {
 .list-style:hover {
   color: #2196f3;
 }
-.nav-items {
-  display: inline;
-  list-style: none;
-  text-decoration: none;
-}
-
 .button-style {
   background: #f5f4fa;
   border-radius: 4px;
