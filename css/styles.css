@@ -40,6 +40,7 @@ body {
   color: #fff;
   display: flex;
   align-items: center;
+  justify-content: center;
 }
 .list-style {
   font-weight: 500;
