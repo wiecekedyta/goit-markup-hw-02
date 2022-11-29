@@ -91,7 +91,7 @@ body {
 }
 .button-list li {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: center;
   list-style: none;
 }
