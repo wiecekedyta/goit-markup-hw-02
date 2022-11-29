@@ -47,7 +47,7 @@ body {
   justify-content: center;
 }
 .nav-items {
-  display: inline;
+  display: inline-block;
   list-style: none;
   text-decoration: none;
 }
