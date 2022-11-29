@@ -155,10 +155,6 @@ body {
   letter-spacing: 0.03em;
   color: #ffffff;
 }
-.footer-style {
-  background-color: #2f303a;
-  height: 252px;
-}
 .contact-items {
   font-weight: 500;
   font-size: 14px;
@@ -189,4 +185,8 @@ body {
 
 .display-style li {
   display: inline-block;
+}
+.footer-style {
+  background-color: #2f303a;
+  height: 252px;
 }
