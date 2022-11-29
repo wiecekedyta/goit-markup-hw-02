@@ -94,10 +94,11 @@ body {
   list-style: none;
 }
 .section-two {
-  margin: 94px 215px;
+  margin: 94px 185px;
 }
 .section-two li {
   display: inline-block;
+  margin: 0px 30px;
 }
 .header-three {
   font-size: 16px;
