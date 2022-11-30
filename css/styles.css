@@ -83,6 +83,7 @@ body {
   letter-spacing: 0.03em;
   align-items: center;
   margin: 8px;
+  box-shadow: none;
 }
 .button-style:hover {
   color: #ffffff;
