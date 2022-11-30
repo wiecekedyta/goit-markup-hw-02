@@ -63,7 +63,8 @@ body {
 .list-style:hover {
   color: #2196f3;
 }
-.link-color:link .link-color:visited {
+.link-color:link,
+.link-color:visited {
   color: #212121;
 }
 .button-style {
