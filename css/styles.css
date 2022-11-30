@@ -63,6 +63,9 @@ body {
 .list-style:hover {
   color: #2196f3;
 }
+.link-color:link .link-color:visited {
+  color: #212121;
+}
 .button-style {
   background: #f5f4fa;
   border-radius: 4px;
