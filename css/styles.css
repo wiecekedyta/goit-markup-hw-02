@@ -84,6 +84,7 @@ body {
   align-items: center;
   margin: 8px;
   box-shadow: none;
+  border: none;
 }
 .button-style:hover {
   color: #ffffff;
